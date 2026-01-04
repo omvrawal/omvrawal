@@ -1,8 +1,11 @@
 👋 Hey there! I'm Om Rawal
 
 -🎓 M.Sc. Information Technology student
+
 -🛠️ Backend Developer • Cybersecurity Explorer • AI Tinkerer
+
 -🐍 Fluent in Python & sarcasm
+
 -☕ Powered by coffee and “just one more bug fix”
 
 -Programming Languages: Python, JavaScript, Java, C, C++
